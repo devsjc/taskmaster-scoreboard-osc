@@ -2,8 +2,7 @@
 <img src="frontend/images/seal.png" width="100">
 <h1>Taskmaster Scoreboard OSC</h1>
 
-<h3>OSC-Enabled version of VodBox's Taskmaster Scoreboard. For use with cueing software such as QLab.
-</h3>
+<h3>OSC-Enabled version of VodBox's Taskmaster Scoreboard. For use with cueing software such as QLab.</h3>
 </div>
 
 
