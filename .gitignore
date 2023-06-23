@@ -3,5 +3,8 @@ dist
 target
 build
 
+# NPM
+node_modules
+
 # MacOS Specific
 .DS_Store
